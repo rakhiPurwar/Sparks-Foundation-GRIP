@@ -5,12 +5,13 @@ When using the contents of this repository make sure all the downloaded files ar
 
 Libraries to be installed- Open the Anaconda Prompt and install if not available-
 
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install streamlit
-The tasks are as follows:
+1) pip install numpy
+2) pip install pandas
+3) pip install matplotlib
+4) pip install seaborn
+5) pip install streamlit
+
+## The tasks are as follows:
 
 Task-2 To Explore Supervised Machine Learning
 
